@@ -1,0 +1,49 @@
+_repo: The-Radio-Planet_52326
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Gaughan, Jack
+    aliases:
+    - Gaughan
+    - Gaughan, John Brian Francis
+    birthdate: 1930
+    deathdate: 1985
+    gutenberg_agent_id: '35615'
+    url: http://www.gutenberg.org/2009/agents/35615
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Gaughan
+  - agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, Jack
+    - Schoenherr, John (John Carl)
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+creator:
+  author:
+    agent_name: Farley, Ralph Milne
+    alias: Hoar, Roger Sherman
+    birthdate: 1887
+    deathdate: 1963
+    gutenberg_agent_id: '46705'
+    url: http://www.gutenberg.org/2009/agents/46705
+    wikipedia: https://en.wikipedia.org/wiki/Roger_Sherman_Hoar
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- GITenberg
+title: The Radio Planet
+url: http://www.gutenberg.org/ebooks/52326
